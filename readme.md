@@ -76,4 +76,4 @@
 
 ## 致謝
 
-衷心感謝巨量資料分析的教授指導與組員們 [GPLIN514](https://github.com/GPLIN514)的貢獻!!
+衷心感謝巨量資料分析的教授指導與組員們 [GPLIN514](https://github.com/GPLIN514) 及[Andrewprince18](https://github.com/Andrewprince18)的貢獻!!
