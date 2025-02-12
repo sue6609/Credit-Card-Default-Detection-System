@@ -1,7 +1,7 @@
 ## 信用卡違約偵測系統
 
 這個Shiny網頁應用程式旨在使用各種統計技術來分析和偵測信用卡違約。該應用包括數據清理、變數選擇、模型訓練和評估功能。
-
+[專案報告下載](https://drive.google.com/file/d/1-tqW5RheRoTxjXBSW1f_gcgQeomhZpZm/view?usp=sharing)
 ## 目錄
 
 1. [安裝](#安裝)
