@@ -3,7 +3,7 @@
 這個Shiny網頁應用程式旨在使用各種統計技術來分析和偵測信用卡違約。該應用包括數據清理、變數選擇、模型訓練和評估功能。
 [專案報告下載](https://drive.google.com/file/d/1-tqW5RheRoTxjXBSW1f_gcgQeomhZpZm/view?usp=sharing)
 
-![image](./螢幕擷取畫面 2024-06-02 220320.png)
+![image](https://github.com/sue6609/Credit-Card-Default-Detection-System/blob/315024775601780a7b7fb79fb45f4196763a9a05/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202024-06-02%20220320.png)
 ## 目錄
 
 1. [安裝](#安裝)
